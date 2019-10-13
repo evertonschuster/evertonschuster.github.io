@@ -1,1 +1,0 @@
-# evertonschuster.github.io
