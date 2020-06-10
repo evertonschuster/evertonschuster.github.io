@@ -1,0 +1,2 @@
+.form-application-container{-webkit-animation:render 1s;animation:render 1s;background-color:#fff;margin:24px 16px!important;flex:1 1;padding:20px}@-webkit-keyframes render{0%{opacity:.2;transform:translateY(-5%)}to{opacity:1;transform:translateY(0)}}@keyframes render{0%{opacity:.2;transform:translateY(-5%)}to{opacity:1;transform:translateY(0)}}
+/*# sourceMappingURL=28.dfec217e.chunk.css.map */
